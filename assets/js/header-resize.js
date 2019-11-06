@@ -1,6 +1,5 @@
 // JavaScript Document
-
-/*!
+/*
  * classie v1.0.0
  * class helper functions
  * from bonzo https://github.com/ded/bonzo
